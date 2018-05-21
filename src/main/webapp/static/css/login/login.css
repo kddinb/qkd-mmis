@@ -1,0 +1,86 @@
+
+body {
+    width: 100%;
+    height: 100%;
+    font-family: "Microsoft YaHei", "sans-serif";
+    background: url("../../img/login/bg2.jpg") no-repeat fixed;
+    background-size: cover;
+}
+
+.text {
+    color: #fff;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.text img {
+    width: 314px;
+    height: 55px;
+}
+
+h1 > span {
+    font-size: 30px
+}
+
+h1 > strong {
+    font-style: italic;
+}
+
+.form-bottom .input-group,
+.form-bottom .btn-block,
+.btn-group {
+    margin-top: 30px;
+}
+
+.form-box {
+    background-color: rgba(255, 255, 255, 0.5);
+    padding: 15px 9% 40px;
+}
+
+input[type="radio"] {
+    width: 24px;
+    height: 24px;
+    margin: 0 8px 0 0;
+    vertical-align: middle;
+}
+
+.login-type {
+    width: 100%;
+    text-align: center;
+    font-size: 18px;
+}
+
+#msg-login {
+    margin-left: 20%;
+}
+
+.send-msg {
+    position: absolute;
+    right: 115px;
+    top: 12px;
+    font-size: 16px;
+    z-index: 5;
+    cursor: pointer;
+}
+
+.input-group > .msg-type > .btn {
+    margin-right: -1px;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+/*login type switch button*/
+.btn-group-lg > .btn.log-type-btn {
+    padding: 7px 2px;
+    margin-left: -1px;
+    background-color: #fff;
+}
+
+.log-type-btn > .switchbutton {
+    width: 94px !important;
+    height: 30px !important;
+}
+
+.switchbutton-on, .switchbutton-off, .switchbutton-handle {
+    font-size: 14px;
+}

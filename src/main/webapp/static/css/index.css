@@ -1,0 +1,19 @@
+
+.tabs-panels>.panel> .panel-body {
+    padding: 10px;
+}
+
+.tabs-panels iframe {
+    width: 100%;
+    height: 560px;
+}
+
+canvas{margin-top: 10%;}
+
+.tabs-first,.tabs-first >a {
+    width: 0;
+    height: 0!important;
+    border:0!important;
+}
+
+#tab1>img {margin-top: 8%;}

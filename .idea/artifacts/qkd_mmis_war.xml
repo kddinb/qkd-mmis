@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="qkd-mmis:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="Demo.war">
+      <element id="artifact" artifact-name="qkd-mmis:war exploded" />
+    </root>
+  </artifact>
+</component>

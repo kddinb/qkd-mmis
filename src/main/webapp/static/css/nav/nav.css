@@ -1,0 +1,31 @@
+/*页面顶部导航栏使用的css*/
+
+.north-box {height: 50px;}
+
+.layout-expand-north .panel-header {
+    /* padding: 0px;*/
+    background-color: #222;
+}
+.layout-expand-north .panel-title {
+    padding: 0;
+    background-color: #222;
+}
+
+.layout-expand-north .panel-body {
+    padding: 0;
+    height: 1px;
+    background-color: #222;
+}
+
+.nav {
+    height: 50px;
+    font-size: 16px;
+}
+
+.navbar-inverse .navbar-brand {color:#fff;}
+
+.navbar-inverse .navbar-nav>.dropdown-active>a {
+    font-size: 14px;
+    color: #fff;
+    border-right: 1px solid #564f4f;
+}

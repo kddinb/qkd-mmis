@@ -113,6 +113,7 @@ public class ApplyController {
 
     public void  main(){
 
+        int aa = 1;
     }
 
 }

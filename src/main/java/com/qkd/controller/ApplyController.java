@@ -112,10 +112,9 @@ public class ApplyController {
     }
 
     public void  main(){
-        int cc =3;
         int aa = 1;
         int bb = 2;
-    }
+		int cc =3;    }
 
 }
 

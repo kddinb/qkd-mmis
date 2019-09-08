@@ -111,6 +111,10 @@ public class ApplyController {
         return map;
     }
 
+    public void  main(){
+
+    }
+
 }
 
 
